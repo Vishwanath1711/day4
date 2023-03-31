@@ -5,7 +5,7 @@ Try checking whether any instances are running or not, by clicking on the EC2 Se
 Choose the region which is nearer to you to achieve high latency.
 
 Following are the steps to be followed:
-- 1: Click on Launch Instance or go to insatnces and click Launch Instacne.
+1: Click on Launch Instance or go to insatnces and click Launch Instacne.
 - 2: Once you click on Launch Instance, you need to 
     * Enter the basic details like name of Instance.
     * Choose AMI, AMI is specifying the configuration like which Operating System and which softwares you are going to install on EC2 Instance(leave it as default which is Amazon Linux).
